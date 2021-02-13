@@ -1,5 +1,3 @@
-'use strict';
-
 const SIZE = 8;
 let grid = '';
 
